@@ -1,0 +1,8 @@
+public class Main {
+    public static void main(String[] args) {
+        Log l = new Log();
+        l.successMessage("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sapien libero, facilisis quis ex at, ultricies congue erat. Proin hendrerit leo magna, quis pellentesque magna faucibus a. Etiam eu ligula pharetra libero dapibus ultricies sollicitudin ac lectus. Praesent est sem, tincidunt sed lobortis at, efficitur a mi. Nulla nec facilisis dolor. Proin sit amet consequat est. Curabitur aliquam sodales cursus. Etiam tincidunt varius nulla, eu malesuada enim imperdiet non.");
+        l.warningMessage("Aenean quis hendrerit nulla. Quisque lobortis vitae ipsum nec convallis. Sed non diam eu justo finibus consectetur. Donec sed tempus est, eget congue metus. Vestibulum finibus a sapien nec viverra. Donec sagittis orci sit amet egestas laoreet. In pellentesque massa arcu, pharetra blandit lectus aliquam et. Phasellus scelerisque libero quis elit pulvinar luctus. Morbi tempus a dolor vel sollicitudin. Vivamus purus est, porta in placerat sit amet, vulputate a mauris. Duis tincidunt elit vitae elit blandit, et cursus neque rhoncus.");
+        l.errorMessage("Pellentesque egestas magna ac elit porta condimentum. Pellentesque id nulla faucibus, ultrices ligula pellentesque, suscipit nisl. Etiam non venenatis diam, eu tristique dolor. Mauris ligula lectus, ultrices at tempus at, molestie in arcu. Proin sollicitudin bibendum tristique. Duis arcu purus, vehicula ac dictum ut, pretium ut libero. Nullam vehicula libero mi, ut euismod metus egestas at. Donec tristique semper quam ut tempus.");
+    }
+}

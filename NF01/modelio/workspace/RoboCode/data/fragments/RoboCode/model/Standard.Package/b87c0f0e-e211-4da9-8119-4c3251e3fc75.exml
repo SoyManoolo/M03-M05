@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="robocode" version="4">
+  <OBJECT>
+    <ID name="robocode" mc="Standard.Package" uid="b87c0f0e-e211-4da9-8119-4c3251e3fc75"/>
+    <PID name="RoboCode" mc="Standard.Project" uid="0164ef39-5ed0-4c79-a17f-c8dc75ab1cc5"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[robocode]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Bullet" mc="Standard.Class" uid="48fd31e3-d71d-41bd-bdcf-8d0d057f5d6d"/>
+        <COMPID name="JuniorRobot" mc="Standard.Class" uid="f768e0e9-d301-4068-9245-afd358720dc4"/>
+        <COMPID name="BattleResults" mc="Standard.Class" uid="477cc916-7ee7-49b3-8498-56e3ea7c06bb"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="BattleResults" mc="Standard.ClassDiagram" uid="dea8a869-0ad0-4e29-aed0-8148283b0f8f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="RoboCode" version="4">
+  <OBJECT>
+    <ID name="RoboCode" mc="Infrastructure.DiagramSet" uid="7736243f-23dd-4c67-9962-01b0a479275c"/>
+    <PID name="RoboCode" mc="Standard.Project" uid="0164ef39-5ed0-4c79-a17f-c8dc75ab1cc5"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[RoboCode]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Carta" version="4">
+  <OBJECT>
+    <ID name="Carta" mc="Standard.Project" uid="075f1e0e-fcaf-4e13-bb9f-f4d245d096b3"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Carta]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="carta" mc="Standard.Package" uid="fae3b26b-71c1-43fb-ad38-25bd71277375"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Carta" mc="Infrastructure.DiagramSet" uid="34705491-c80a-4ea3-a0e5-88d9287665c1"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
